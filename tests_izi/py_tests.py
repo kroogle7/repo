@@ -6,7 +6,11 @@ def ss(izi):
     return izi
 
 print(ss('a'))
+d = 1 
 
+d+=1
+
+print(d)
 c = 1 
 c+=1
 print(c)

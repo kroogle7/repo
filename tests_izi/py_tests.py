@@ -6,7 +6,7 @@ def ss(izi):
     return izi
 
 print(ss('a'))
-
+# комментарий
 c = 1 
 c+=1
 print(c)

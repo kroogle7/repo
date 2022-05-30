@@ -1,4 +1,6 @@
 def ss(izi):
+    '''Вычисляет является ли 
+    строка полиндромом'''
     if len(izi)<=1:
         return izi
     if len(izi) > 2:

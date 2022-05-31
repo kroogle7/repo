@@ -8,7 +8,12 @@ def ss(izi):
     return izi
 
 print(ss('a'))
-
+a = 4
+if a ==4:
+    print(True)
+l = 1
+if l == 1:
+    print(l)
 c = 1 
 c+=1
 print(c)

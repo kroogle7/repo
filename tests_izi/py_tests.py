@@ -8,6 +8,10 @@ def ss(izi):
     return izi
 
 print(ss('a'))
+<<<<<<< HEAD
+=======
+s = 5
+>>>>>>> artem_feature
 c = 1 
 c+=1
 print(c)

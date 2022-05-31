@@ -13,4 +13,3 @@ c = 1
 c+=1
 '''what is it?'''
 print(c)
-#izi

@@ -6,7 +6,9 @@ def ss(izi):
     if len(izi) > 2:
         return ss(izi[1:-1])
     return izi
-
+#somebody
+#two somebody
+#last comment
 print(ss('a'))
 s = 5
 c = 1 

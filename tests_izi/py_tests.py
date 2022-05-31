@@ -8,10 +8,6 @@ def ss(izi):
     return izi
 
 print(ss('a'))
-a = 5 
-a += 5
-print(a)
-
 c = 1 
 c+=1
 print(c)

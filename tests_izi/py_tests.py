@@ -8,7 +8,8 @@ def ss(izi):
     return izi
 
 print(ss('a'))
-'''what is it?'''
+
 c = 1 
 c+=1
+'''what is it?'''
 print(c)
